@@ -1,6 +1,6 @@
 # ITCAMP21_InfraSapphire
 
-## ลิงก์ Github Document ของแต่ละสัปดาห์
+## ลิงก์ Github Document
 
 - [IP address](/IP_Address.md)
 - [Vlan](/VLAN.md)
